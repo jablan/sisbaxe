@@ -1,0 +1,5 @@
+<foo xmlns:v="http://radioni.ca/sisbaxe">
+  <bar v:text="hello">hello</bar>
+  <baz v:choice="world,you,kitty">world</baz>
+  <bar v:text="there">there</bar>
+</foo>
